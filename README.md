@@ -1,16 +1,3 @@
 # li_comm
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a minor project called Li-COMM and is built using the Flutter framework. It is designed to convert text messages into binary code and transmit them using a device's flashlight. The project makes use of the torch_light package to control the device's flashlight. The app flashes the device's flashlight to transmit the message in Morse code.
