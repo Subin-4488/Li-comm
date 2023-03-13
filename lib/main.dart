@@ -116,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
     } else {
       String decode = '';
       for (var element in msg.characters) {
-        decode += data[element.toUpperCase()]!;
+        decode += data[element.toUpperCase()]!; 
       }
 
       Navigator.of(context).push(MaterialPageRoute(builder: ((context) {
